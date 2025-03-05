@@ -5,6 +5,10 @@ build/
 dist/
 wheels/
 *.egg-info
+*.npz
+*.npy
+glove*
+digit_recognizer/*.*
 
 # Virtual environments
 .venv
